@@ -1,0 +1,26 @@
+1. Implemente um programa para calcular o dobro de um número.
+2. Implemente um programa para calcular o triplo de um número.
+3. Implemente um programa calcular a área do retângulo.
+4. Implemente um programa para calcular a área do quadrado.
+5. Implemente um programa para verificar se uma pessoa está com febre.
+6. Implemente um programa para calcular a média de 5 notas.
+7. Implemente um programa para calcular a média de 5 notas e verificar se ela está aprovada com nota maior que 5.
+8. Implemente um programa para verificar se uma cor é primária.
+9. Implemente um programa para verificar se duas cores são primárias.
+10. Implemente um programa para calcular o total de uma compra na Amazon, a partir do valor total da venda e da taxa de juros. 
+Exemplo: Para uma Compra de 10000 com taxa de 10 porcento, o valor total será 11000.
+
+11. Implemente um programa que exiba o nome de um mês, a partir de seu número.
+Exemplo: Para o mês 2, exibir no terminal Fevereiro
+
+12. Implemente um programa que calcule a média de 3 notas e exiba a situação do aluno conforme tabela abaixo:
+Maior igual a 8 :: Aprovado com Sucesso
+Maior igual a 6 e menor que 8 :: Aprovado
+Maior igual a 3 e menor que 6 :: Recuperação
+Menor que 3 :: Reprovado
+Igual a 0 :: Desistente
+
+13. Implemente um programa para calcular o total a se pagar pela compra de ingressos de cinema sabendo que cada ingresso custa R$ 28,50. O usuário deve informar o tipo dos ingressos (Meia ou Inteira) e a quantidade de ingressos. 
+Exemplo:
+Para 3 ingressos meia, o valor total é 42.75.
+Para 3 ingressos inteira, o valor total é 85.5. 
